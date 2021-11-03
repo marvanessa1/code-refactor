@@ -1,2 +1,2 @@
 # code-refactor
-Homework 1
+Refactor excisting code to improve it without changing what it does
