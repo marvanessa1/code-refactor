@@ -10,11 +10,11 @@ Refactor excisting code to improve it without changing what it does so it follow
 - Comments before each element of the page were added in both HTML and css file
 
 ## Mock-Up Screenshot
-```md
-![Alt text](assets/images/screenshot.png)
-```
-    
 
+[Webpage Screenshot](assets/images/screenshot.png)
+
+## Links
+[Link to webpage](https://marvanessa1.github.io/code-refactor/)
 
 
 
